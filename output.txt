@@ -1,0 +1,5 @@
+what are you doing?
+I'm playing footbll.
+Let's plau together!
+lss -l
+zipgrel "fo" temp.txt
